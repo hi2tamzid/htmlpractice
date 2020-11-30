@@ -1,0 +1,22 @@
+@font-face{
+	font-family: mySpecialFont;
+	src: url('holly_and_berries.ttf');
+}
+h1{
+	color: red !important;
+	font-family: Courier, Arial;
+	font-style: oblique;
+	/*font-variant: small-caps;*/
+	/*font-size: larger;*/
+	background-color: #B3B3B3;
+	line-height: 220%;
+}
+h1{
+	color: blue;
+}
+div{
+	/*text-align: right;*/
+	background-color: #B3B3B3;
+	line-height: 100%;
+	/*border: 5px solid black;*/
+}
