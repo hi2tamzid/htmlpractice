@@ -1,0 +1,43 @@
+div{
+	width: 46%;
+	/*background-color: grey;*/
+	/*margin: 5px;*/
+	/*margin: 0 auto;*/
+	display: table-cell;
+	padding: 10px;
+	/*height: 20px;*/
+	border-style: solid;
+	border-width: 3px 10px;
+
+	/*box-sizing: border-box;*/
+}
+a{
+	display: block;
+	font-weight: bold;
+	color: #ffffff;
+	background-color: #0006CC;
+	width: 10%;
+	text-align: center;
+	padding: 5px;
+	margin: 1% auto;
+	text-decoration: none;
+
+}
+a:hover{
+	background: #B3B3B3;
+	color: #0006CC;
+}
+a:focus{
+	background: #B3B3B3;
+	color: #0006CC;
+}
+a:active{
+	border: 3px solid #B3B3B3;
+}
+ol, ul{
+	/*list-style-type: upper-alpha;*/
+	list-style-image: square url('pictures/iconfinder_simpline_47_2305615.png');
+}
+#p3{
+	color: red;
+}
